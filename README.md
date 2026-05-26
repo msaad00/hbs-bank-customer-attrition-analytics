@@ -12,14 +12,25 @@ presentation work.
 
 ## Artifacts
 
-- `HBS Bank - Customer Attrition.ipynb`
-- `Bank Churning Insights.twbx`
-- `Capstone 2 - Issue Tree [Wagdy Saad].pptx`
-- `Capstone 2-Problem Statement.pptx`
-- `HBS Bank - Technical Presentation.pptx`
+- `notebooks/hbs-bank-customer-attrition.ipynb` - Python notebook for churn
+  EDA, statistical tests, visualization, and classification exploration.
+- `workbooks/bank-churn-insights.twbx` - Tableau workbook for customer attrition
+  insight development.
+- `presentations/customer-attrition-issue-tree.pptx` - issue-tree framing.
+- `presentations/customer-attrition-problem-statement.pptx` - problem statement.
+- `presentations/hbs-bank-technical-presentation.pptx` - technical findings
+  presentation.
+
+## Structure
+
+```text
+notebooks/      Python analysis notebook
+workbooks/      Tableau BI workbook
+presentations/  problem framing and technical presentation artifacts
+```
 
 ## Status
 
-Archived portfolio work. The original project artifacts are preserved as-is and
-remain public to document earlier Python, BI, and analytics engineering
-experience.
+Archived portfolio work. The project content is preserved and organized for
+readability. It remains public to document earlier Python, BI, and analytics
+engineering experience.
