@@ -1,16 +1,20 @@
 # Customer Attrition Analytics Portfolio
 
-Archived 2021 public portfolio project focused on customer attrition and
-business insight development.
+Archived 2021 public portfolio project focused on HBS Bank customer attrition
+and business insight development.
 
-This repository is retained as historical evidence of Python analytics, BI
-visualization, issue-tree framing, and technical presentation work.
+The project uses Python to analyze customer churn drivers, including attrition
+rate, customer behavior, transaction activity, utilization, categorical and
+numeric feature relationships, statistical testing, visualization, and
+classification-model exploration. It is retained as historical evidence of
+Python analytics, BI visualization, issue-tree framing, and technical
+presentation work.
 
 ## Artifacts
 
 - `HBS Bank - Customer Attrition.ipynb`
 - `Bank Churning Insights.twbx`
-- `Capstone 2 - Issue Tree [Mohamed Saad].pptx`
+- `Capstone 2 - Issue Tree [Wagdy Saad].pptx`
 - `Capstone 2-Problem Statement.pptx`
 - `HBS Bank - Technical Presentation.pptx`
 
